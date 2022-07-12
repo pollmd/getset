@@ -12,7 +12,8 @@
  * @package PopularFX
  */
 
-get_header();
+// get_header();
+include header.php
 ?>
 
 	<main id="primary" class="site-main">
